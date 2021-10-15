@@ -1,6 +1,6 @@
-# Bluetooth (aptX) - from sunfish RQ1A.201205.008
-system_ext/lib64/libaptX_encoder.so|df1c89d7af1bb35808d5fe3496b04ba066c10cbc
-system_ext/lib64/libaptXHD_encoder.so|e13fa70c97caaa24d061678bdee608eb8850a69e
+# Bluetooth AptX | From bomb RP1A.200720.011 release-keys
+system_ext/lib64/libaptX_encoder.so|9e87fed4eac0e9fe428eaf8d0db7a1af89d521e1
+system_ext/lib64/libaptXHD_encoder.so|043c055498f6e6e2b0564ad35ea17b012844cbce
 
 # HotwordEnrollment - from lmi RKQ1.200826.002
 -product/priv-app/HotwordEnrollmentOKGoogleHEXAGON/HotwordEnrollmentOKGoogleHEXAGON.apk|91c49e2f1f95fe76952eb55d7a936a997685b964
