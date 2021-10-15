@@ -32,5 +32,9 @@ PRODUCT_PRODUCT_PROPERTIES += \
 PRODUCT_SYSTEM_DEFAULT_PROPERTIES += \
     ro.vendor.qti.va_aosp.support=1
     
+# Bluetooth
 persist.bluetooth.bluetooth_audio_hal.disabled=true 
 ro.bluetooth.library_name=libblutooth_qti.so
+
+#dolby 
+sys.keep_app_1=com.dolby.ds1appUI
