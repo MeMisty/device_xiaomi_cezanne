@@ -1,0 +1,7 @@
+-keep class org.mokee.settings.doze.* {
+  *;
+}
+
+-keep class org.mokee.settings.popupcamera.* {
+  *;
+}
